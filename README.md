@@ -1,4 +1,6 @@
 # NLP in PySpark's MLlib - Fake Job Posting Predictions
+[![Language Badge](https://img.shields.io/badge/Language-Python-blue.svg)](https://www.python.org/)
+[![License Badge](https://img.shields.io/badge/License-CC%20BY--NC%204.0-0a2c46.svg)](https://creativecommons.org/licenses/by-nc/4.0/legalcode)
 
 Indeed.com has hired us to create a system that automatically flags suspicious job postings on its website. Due to the high volume of job postings, their employees do not have the capacity to check every posting, so they would like to prioritize which postings to review before deleting them. Our task is to use the attached dataset with NLP to create an algorithm that automatically flags suspicious posts for review.
 
